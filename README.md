@@ -1,3 +1,3 @@
-# coding101- Store location selection
-本程式用於分析台中市的625個里當中，哪裡最適合開設素食餐廳。
-本程式於2021年，由109年商管程式設計小組完成。欲執行分析，請執行"商業選址主程式.py"
+# final_project
+PBC_FINAL
+把data資料夾跟get_data.py 放在你們程式的同一個路徑下，再照著example.py裡面的方法叫函數就ok了，回傳都是dict
